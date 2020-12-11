@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.exe
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.deps.json
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.json
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\bin\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.AssemblyInfo.cs
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.dll
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.pdb
+C:\Users\DELL\Desktop\exams\OOP\3. C# OOP Exam - 12 Apr 2020\CounterStrike\obj\Debug\netcoreapp3.0\CounterStrike.genruntimeconfig.cache
